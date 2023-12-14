@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "examplesword:item/the_swordy_sword"
+	}
+}
